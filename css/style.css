@@ -803,9 +803,9 @@ text-align: center;
 #sus p{
   color: white;
   font-stretch: semi-expanded;
-  font-family: 'Merriweather',serif;
+  font-family: 'Open Sans', sans-serif;
   font-size-adjust: auto;
-  padding-top: 20%;
+  padding: 20% 20%;
 
 }
 
