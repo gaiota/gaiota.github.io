@@ -609,6 +609,13 @@ text-align: center;
   margin-left:10%;
 }
 
+
+#team-members p{
+  padding: 10% 10%;
+}
+
+
+
 .team-member {
   position: relative;
   margin: 8px;
