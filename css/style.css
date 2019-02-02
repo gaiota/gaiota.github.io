@@ -430,6 +430,26 @@ ul.social-list li:nth-child(1)a:hover{
   padding: 90px 0;
 }
 
+
+/*--------------------------------------------------------------
+| |           IoT Solutions
+--------------------------------------------------------*/
+
+.iot{
+  margin-top: 5%;
+  margin-left: 10%;
+
+}
+
+
+.Iot_solutions img{
+  height: 100%;
+  width: 100%;
+
+}
+
+
+
 /*--------------------------------------------------------------
 | |           services and responsiveTabs
 --------------------------------------------------------*/
@@ -470,13 +490,16 @@ ul.social-list li:nth-child(1)a:hover{
 }
 
 
-.service-tab .col-md-6{
-  padding: 0;
+.service-tab .col-md-12{
+  margin-top: -55px;
+  margin-left: -50px;
 }
 
 
 .service-tab img{
+  height: auto;
   width: 100%;
+  size:auto;
   margin: 0 auto;
 }
 .service-tab .tab-bg{
