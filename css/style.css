@@ -685,8 +685,6 @@ text-align: center;
   padding: 10% 10%;
 }
 
-
-
 .team-member {
   position: relative;
   margin: 8px;
@@ -715,6 +713,7 @@ text-align: center;
 .team-member-info p{
   color: #D3D3D3;
   font-size: 10px;
+  padding-top:
 }
 
 .team-member-info {
@@ -733,6 +732,21 @@ text-align: center;
 .team-member:hover .team-member-overlay {
   opacity: 1;
 }
+
+.social-list12{
+  padding-top: -50%;
+}
+
+
+
+.team-member-info ul{
+padding-top: -50%;
+}
+
+
+
+
+
 
 
 
