@@ -455,6 +455,14 @@ ul.social-list li:nth-child(1)a:hover{
 }
 
 
+#sol_par p{
+  font-size: 14px;
+
+  font-weight: 80px;
+  margin-bottom: 20px;
+}
+
+
 
 /*--------------------------------------------------------------
 | |           services and responsiveTabs
