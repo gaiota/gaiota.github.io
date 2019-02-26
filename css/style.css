@@ -436,16 +436,22 @@ ul.social-list li:nth-child(1)a:hover{
 --------------------------------------------------------*/
 
 .iot{
-  margin-top: 5%;
-  margin-left: 10%;
+  margin-top: 10% 1%;
+
+
+
+}
+#iot-head h1{
+  color: #202E75;
+  padding-bottom: 5%;
 
 }
 
 
 .Iot_solutions img{
-  height: 100%;
-  width: 100%;
 
+  width: 100%;
+  height: auto;
 }
 
 
@@ -477,6 +483,16 @@ ul.social-list li:nth-child(1)a:hover{
   padding: 0;
   text-decoration: none;
 }
+
+
+#tab {
+  padding-bottom: 10%;
+
+}
+#tab h1{
+  color: blue;
+}
+
 /*Tabs in acive state*/
 
 #services-tabs ul li.r-tabs-state-active a {
@@ -532,19 +548,8 @@ ul.social-list li:nth-child(1)a:hover{
 
 
 
-.wc{
-
-  margin-left: 4%;
-  margin-bottom: 5%;
-
-}
 
 
-.wc img{
-  height: 100%;
-  width: 100%;
-
-}
 
 
 
@@ -916,6 +921,21 @@ padding-top: -50%;
 
 .wc {
   background: #202E75;
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-bottom: 4%;
+}
+
+.wc-b{
+  margin-left: -10%;
+}
+
+#wc_img {
+  padding-top: 1%;
+
+}
+#wc-head h1{
+  padding-left: 4%;
 }
 
 .wcw p{
